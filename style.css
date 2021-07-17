@@ -1,0 +1,16 @@
+body{
+  font-family: "Sofia", "sans-serif";
+  font-size: 25px;
+  text-align: center;
+}
+
+img{
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  margin: 30px;
+}
+
+.containers{
+  flex-wrap: wrap;
+}

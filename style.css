@@ -1,6 +1,25 @@
-body{
+h1{
   font-family: "Sofia", "sans-serif";
-  font-size: 25px;
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Noto Sans HK', sans-serif;
+  font-size: 20px;
+}
+
+footer{
+  font-family: 'Noto Sans HK', sans-serif;
+  padding: 20px;
+  padding-top: 10px;
+}
+
+p{
+  font-family: 'Noto Sans HK', sans-serif;
+}
+
+body{
   text-align: center;
 }
 
